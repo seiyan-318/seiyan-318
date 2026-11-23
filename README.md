@@ -7,12 +7,12 @@ Engineering student at Tohoku University.
 
 I work across the stack — from embedded firmware and PCBs up to ROS 2 — to make rovers drive and see remotely.
 
-### 🚀 What I'm working on
+###  What I'm working on
 
 - **Rover driving system** — locomotion and steering control for our Mars rover
 - **Communication & video transmission** — long-range radio links and real-time 360° video streaming from the rover to the base station
 
-### 🏆 Achievements
+###  Achievements
 
 **With ARES Project**
 
@@ -26,14 +26,14 @@ I work across the stack — from embedded firmware and PCBs up to ROS 2 — to m
 
 **Individual**
 
-- 🥈 **2nd place** — AWS Regional Revitalization & Social Issue AI Contest 2026, Miyagi (Tohoku)
-- 🚀 **Japan national team** — APRSAF-27 Online Water Rocket Event 2021 (JAXA, 12 Asia-Pacific countries & regions)
+-  **2nd place** — AWS Regional Revitalization & Social Issue AI Contest 2026, Miyagi (Tohoku)
+-  **Japan national team** — APRSAF-27 Online Water Rocket Event 2021 (JAXA, 12 Asia-Pacific countries & regions)
 
-### 💼 Experience
+###  Experience
 
 - **Intern @ NI (National Instruments) Japan** (Summer 2026) — built a tool to visualize radio signal conditions for rovers
 
-### 🛠 Tech stack
+###  Tech stack
 
 [![Skills](https://skillicons.dev/icons?i=py,c,cpp,ros,linux,git)](https://skillicons.dev)
 
@@ -41,7 +41,7 @@ I work across the stack — from embedded firmware and PCBs up to ROS 2 — to m
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F7?style=flat-square&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 
-### 📌 Side projects
+###  Side projects
 
 | Project | Description |
 | --- | --- |
