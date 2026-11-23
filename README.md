@@ -49,6 +49,6 @@ I work across the stack — from embedded firmware and PCBs up to ROS 2 — to m
 | [MultiCamAutoSync](https://github.com/seiyan-318/DaVinciResolve-MultiCamAutoSync) | Sync multi-camera footage in DaVinci Resolve using only the cameras' internal clocks |
 | [ws2812b-generator](https://github.com/seiyan-318/ws2812b-generator) | Browser-based pattern generator for WS2812B LED strips |
 
-### 📫 Contact
+###  Contact
 
 📍 Sendai, Japan
